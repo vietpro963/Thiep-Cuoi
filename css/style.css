@@ -564,9 +564,19 @@ a {
 	text-align: center;
 	margin-bottom: 24px;
 }
-.location {
-	font-family: Arial,
+
+.left-image {
+  position: fixed;
+  top: 0;
+  left: 0;
 }
+
+.right-image {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
 
 .twitter {
 	color: #4267B2;
