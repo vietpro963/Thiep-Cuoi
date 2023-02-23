@@ -528,7 +528,7 @@ body {
 
 .background-image {
   position: fixed;
-  top: 50%;
+  top: 10%;
   left: 0;
   width: 100%;
   height: auto;
@@ -537,7 +537,7 @@ body {
 
 .background-image img {
   position: absolute;
-  top: 50%;
+  top: 10%;
   left: 0;
   width: 100%;
   max-width: 100%;
