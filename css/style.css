@@ -537,11 +537,11 @@ body {
 
 .background-image img {
   position: absolute;
-  top: 50%;
+  top: 0;
   left: 0;
   width: 100%;
-  transform: translateY(-50%);
-  object-fit: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 
