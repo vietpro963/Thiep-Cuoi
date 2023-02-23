@@ -568,16 +568,6 @@ a {
 	margin-bottom: 24px;
 }
 
-.left-image {
-  position: absolute;
-  bottom: 0;
-  z-index: -1;
-  width: 100%;
-  height: auto;
-}
-
-
-
 
 .twitter {
 	color: #4267B2;
