@@ -514,7 +514,7 @@ body {
 }
 
 .footer {
-	color: #F9F54B;
+	color: #674ea7;
 	text-align: center;
 	font-size: 18px;
 	margin: 24px;
@@ -533,7 +533,7 @@ body {
 .background-image img {
   width: 100%;
   max-width: 100%;
-  height: auto;
+  height: 80%;
   object-fit: cover;
 }
 
