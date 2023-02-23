@@ -507,26 +507,6 @@ body {
 	color: #fff;
 }
 
-.days {
-	background: linear-gradient(90deg, #b33a46, #9b313c);
-}
-
-.hours {
-	background: linear-gradient(90deg, #a7c3cd, #90a9b2);
-}
-
-.minutes {
-	background-color: #874562;
-}
-
-.seconds {
-	background-color: #145689;
-}
-
-.date {
-	color: #874562;
-	font-weight: 900;
-}
 
 .place {
 	color: #874562;
@@ -542,8 +522,8 @@ body {
 }
 
 .background-image {
-  position: fixed;
-  top: 20px;
+  position: absolute;
+  top: 0;
   left: 0;
   width: 100%;
   height: 100%;
